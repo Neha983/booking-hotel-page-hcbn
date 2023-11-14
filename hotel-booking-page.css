@@ -1,0 +1,42 @@
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.main-box {
+    background-color: #000000e6;
+    padding: 10px;
+    color: white;
+    margin: 10px;
+
+}
+
+.heading {
+    font-family: "Bree Serif";
+}
+
+.paragraph {
+    font-family: Roboto;
+}
+
+.rate {
+    font-family: "Bree Serif";
+    font-size: 30px;
+}
+
+.box {
+    text-align: center;
+    margin: 40px;
+}
+
+.button {
+    background-color: #ffffff;
+    font-family: Roboto;
+    height: 45px;
+    width: 135px;
+    text-align: center;
+    border-radius: 10px;
+}
